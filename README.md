@@ -10,6 +10,7 @@
 - 💬 Ask me about **Machine Learning, Algorithms, TensorFlow, Computer Vision**
 
 - 📫 How to reach me **kolla.j@northeastern.edu**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fddmY_3sPr73_aB2dOKsmL-x00E4Yv75/view?usp=sharing](https://drive.google.com/file/d/1fddmY_3sPr73_aB2dOKsmL-x00E4Yv75/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
