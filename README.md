@@ -3,13 +3,11 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developervishnuvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="developervishnuvardhan" /> </p>
 
-- Hi, I'm currently working on [CELL SEGEMENTATION USING YOLOV8](https://github.com/DeveloperVishnuVardhan/Automatic-music-generation)
-
 - 🌱 I’m currently learning **Pytorch, Opencv**
 
 - 💬 Ask me about **Machine Learning, Algorithms, PyTorch TensorFlow, Computer Vision**
 
-- 📫 How to reach me **kolla.j@northeastern.edu**
+- 📫 How to reach me **jyothivishnuvardhankolla@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fddmY_3sPr73_aB2dOKsmL-x00E4Yv75/view?usp=sharing](https://drive.google.com/file/d/1fddmY_3sPr73_aB2dOKsmL-x00E4Yv75/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
